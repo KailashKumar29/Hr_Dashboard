@@ -15,5 +15,9 @@ This Excel dashboard provides a comprehensive view of employee attrition using p
 - Conditional Formatting
 - Slicers
 
+- 📈 Preview
+- <img width="702" height="331" alt="image" src="https://github.com/user-attachments/assets/9f2561e3-eeea-4901-b6b8-804f59b376ad" />
+
+
 ## 📁 File:
 - HR_Dashboard.xlsx
